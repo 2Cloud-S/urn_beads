@@ -1,0 +1,17 @@
+---
+title: "Proportion of red beads"
+format: html
+execute: 
+  echo: false
+---
+
+
+```{r}
+#| message: false
+
+
+
+```
+
+
+
